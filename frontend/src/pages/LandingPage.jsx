@@ -68,7 +68,7 @@ const LandingPage = () => {
           <div className="hero-media">
             <div className="image-frame card-interactive" style={{ height: "420px" }}>
               <img
-                src="https://in.pinterest.com/pin/998673286093629049/"
+                src="Sattva/images/863987509808958135.jpg"
                 alt="painting"
                 className="image-frame-img"
               />
